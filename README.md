@@ -99,6 +99,6 @@ The Project is done on the kaggle and here's my notebook link. To run the code, 
 
 ## Report
 
-- [Milestone1](https://github.com/RohithKumarBallem/cap5771sp25-project/blob/main/Report/Milestone1.pdf)
-- [Milestone2](https://github.com/RohithKumarBallem/cap5771sp25-project/blob/main/Report/Milestone2.pdf)
-- [Milestone3](https://github.com/RohithKumarBallem/cap5771sp25-project/blob/main/Report/Milestone3.pdf)
+- [Milestone1](https://github.com/RohithKumarBallem/Intelligent-Car-Recommendation-Engine/blob/main/Report/Milestone1.pdf)
+- [Milestone2](https://github.com/RohithKumarBallem/Intelligent-Car-Recommendation-Engine/blob/main/Report/Milestone2.pdf)
+- [Milestone3](https://github.com/RohithKumarBallem/Intelligent-Car-Recommendation-Engine/blob/main/Report/Milestone3.pdf)
