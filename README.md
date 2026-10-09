@@ -1,4 +1,3 @@
-# cap5771sp25-project
 
 ## Car Recommendation Engine
 
