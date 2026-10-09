@@ -83,7 +83,7 @@ The Project is done on the kaggle and here's my notebook link. To run the code, 
 
 1.⁠ ⁠Clone the repository:
     ⁠ bash
-     git clone https://github.com/RohithKumarBallem/cap5771sp25-project.git
+     git clone https://github.com/RohithKumarBallem/Intelligent-Car-Recommendation-Engine.git
     cd Scripts
      ⁠
 
